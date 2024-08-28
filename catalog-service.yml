@@ -9,4 +9,4 @@ server:
       min-spare: 5
 
 polar:
-  greeting: Welcome to the git book catalog 
+  greeting: Welcome to the git book catalog refresh
